@@ -1,4 +1,4 @@
-# Parser-for-Blockchain-Application-iExec-
+# Parser-for-Blockchain-Application-iExec
 Parser for Blockchain Application (iExec)
 
 iExec is a decentralized marketplace for computing resources. It allows individuals and enterprises to monetize their applications and datasets, and to trade computing power. (https://iex.ec/)
