@@ -362,7 +362,7 @@ int main()
 	ofstream writer_1;
 	writer_1.open("output_code.arff"); // Outputting the result to Weka format, which is .arff
 
-	writer_1 << "@relation iexec" << endl; // For weka format.
+	writer_1 << "@relation " << endl; // For weka format.
 	writer_1 << "" << endl; // For weka format.
 
 
